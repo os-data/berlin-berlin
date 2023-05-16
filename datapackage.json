@@ -229,7 +229,7 @@
     {
       "name": "berlin-gesamt",
       "format": "csv",
-      "path": "berlin-gesamt.csv",
+      "path": "https://storage.openspending.org/berlin-berlin/berlin-gesamt.csv",
       "mediatype": "text/csv",
       "bytes": 81128743,
       "dialect": {
